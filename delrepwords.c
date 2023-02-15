@@ -96,6 +96,14 @@ int main()
  {
   printf("%s ",substr[i]);
  }
+
  printf("\n");
 
 }
+
+/**
+Ex OP:
+Enter a sentence
+I have two and two that is two into two that is four
+I have two and that is into four 
+*/
